@@ -1,6 +1,8 @@
-# Source code of Newsletter Generator's built-in demo template
+# Newsletter Generator's built-in demo template
 
 This is a publicly accessible version (a mirror) of the "build-in-demo" HTML email template file, that is used inside Newsletter Generator application.
+
+![Template used in application](https://static.newslettergenerator.app/screenshot-demo-template.webp)
 
 This email template should not be used as a basis for other templates, since it was not thoroughly tested in email testing software, such as Litmus or Email on Acid.
 
